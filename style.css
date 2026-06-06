@@ -227,8 +227,13 @@ img {
 }
 
 .navbar.scrolled {
-    padding: 10px 0;
+    padding: 5px 0;
     box-shadow: var(--shadow-md);
+}
+
+.navbar.scrolled .nav-logo {
+    height: 50px;
+    width: 50px;
 }
 
 .nav-container {
@@ -247,11 +252,12 @@ img {
 }
 
 .nav-logo {
-    height: 48px;
-    width: 48px;
+    height: 64px;
+    width: 64px;
     object-fit: contain;
     border-radius: 50%;
     border: 2px solid var(--secondary);
+    transition: var(--transition-smooth);
 }
 
 .brand-name {
@@ -1675,15 +1681,18 @@ img {
 }
 
 .footer-logo {
-    height: 120px;
-    width: 120px;
+    width: 300px;
+    height: auto;
     object-fit: contain;
+    margin-top: 0;
+    margin-bottom: 0;
+    align-self: flex-start;
 }
 
 .footer-brand {
     display: flex;
     flex-direction: column;
-    gap: 20px;
+    gap: 12px;
 }
 
 .footer-brand .logo-area .brand-name {
