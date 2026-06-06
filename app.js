@@ -64,7 +64,7 @@ const herbsData = [
         latin: "Ngải diệp - Herba Artemisiae Argyi",
         group: "warm",
         core: "Ấm kinh lạc vùng đầu, giảm đau đầu, thư giãn.",
-        detail: "Ngải cứu chứa lượng tinh dầu dồi dào (chủ yếu là cineol và thujone) mang tính ấm sâu. Khi được thẩm thấu qua da đầu trong quá trình gội trị liệu, ngải cứu giúp giải tỏa sự co thắt của các mạch máu vùng đầu, hành khí hoạt huyết, trục xuất 'phong hàn' tích tụ (nguyên nhân gây đau nửa đầu, nặng đầu khi gặp gió lạnh), đem lại cảm giác thư thái sâu sắc."
+        detail: "Ngải cứu chứa lượng tinh dầu dồi dào (chủ yếu là cineol và thujone) mang tính ấm sâu. Khi được thẩm thấu qua da đầu trong quá trình gội đầu sử dụng sản phẩm, ngải cứu giúp giải tỏa sự co thắt của các mạch máu vùng đầu, hành khí hoạt huyết, trục xuất 'phong hàn' tích tụ (nguyên nhân gây đau nửa đầu, nặng đầu khi gặp gió lạnh), đem lại cảm giác thư thái sâu sắc."
     },
     {
         id: 9,
